@@ -1,4 +1,4 @@
-25957335454642445
+25961633448640272
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -103704,6 +103704,20 @@ Varistor VF
 0
 2
 2
+footprints
+MODULE_DM-OLED096-636
+
+
+0
+8
+8
+footprints
+MODULE_ESP32-C3_SUPERMINI
+
+
+0
+16
+16
 footprints
 MODULE_ESP32-C3_SUPERMINI_TH
 

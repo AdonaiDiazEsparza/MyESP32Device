@@ -2696,7 +2696,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x11_P2.54mm_Vertical"
 			(at 43.18 87.63 0)
 			(effects
 				(font
@@ -3189,7 +3189,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 140.97 22.86 0)
 			(effects
 				(font
@@ -3257,7 +3257,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:MODULE_ESP32-C3_SUPERMINI_TH"
+		(property "Footprint" "footprints:MODULE_ESP32-C3_SUPERMINI"
 			(at 45.72 38.1 0)
 			(effects
 				(font
@@ -3753,7 +3753,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 165.1 44.45 0)
 			(effects
 				(font
@@ -3954,7 +3954,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 142.24 44.45 0)
 			(effects
 				(font
@@ -4023,7 +4023,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "DM-OLED096-636:MODULE_DM-OLED096-636"
+		(property "Footprint" "footprints:MODULE_DM-OLED096-636"
 			(at 107.95 39.37 0)
 			(effects
 				(font
@@ -4218,7 +4218,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 165.1 22.86 0)
 			(effects
 				(font
