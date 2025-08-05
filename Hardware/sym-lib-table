@@ -3,4 +3,5 @@
   (lib (name "ESP32-C3_SUPERMINI_TH")(type "KiCad")(uri "${KIPRJMOD}/Sources/symbols/ESP32-C3_SUPERMINI_TH.kicad_sym")(options "")(descr ""))
   (lib (name "DM-OLED096-636")(type "KiCad")(uri "${KIPRJMOD}/Sources/symbols/DM-OLED096-636.kicad_sym")(options "")(descr ""))
   (lib (name "ESP32-C3_SUPERMINI_SMD")(type "KiCad")(uri "${KIPRJMOD}/Sources/symbols/ESP32-C3_SUPERMINI_SMD.kicad_sym")(options "")(descr ""))
+  (lib (name "JS1400AFQ")(type "KiCad")(uri "${KIPRJMOD}/Sources/symbols/JS1400AFQ.kicad_sym")(options "")(descr ""))
 )
