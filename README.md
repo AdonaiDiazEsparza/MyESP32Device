@@ -24,6 +24,14 @@ This project is a small development board design based on the **ESP32-C3 Super M
 
 ---
 
+### 3d Views
+
+Here you can see the view of the board in 3d model.
+![Front view of the ESP32 device](img.png)
+![Front view of the ESP32 device](img_2.png)
+
+---
+
 ### Usage
 
 This board is ideal for:
