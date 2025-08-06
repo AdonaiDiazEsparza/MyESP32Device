@@ -1,4 +1,4 @@
-# ESP32-C3 Super Mini Board
+# MyESP32Device
 
 ### Project Description
 
